@@ -1,0 +1,35 @@
+h1{
+    color:white;
+    font-size: 60px;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+h1.display-4{
+    padding:150px;
+}
+
+h2{
+    color:navy;
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+}
+
+h3{
+    color:gray;
+    text-align: center;
+    font-family: font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.navbar-dark .navbar-brand {
+    color: white
+}
+
+.jumbotron{
+    background-image:url(Bears1.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+}
