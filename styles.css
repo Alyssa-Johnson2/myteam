@@ -21,7 +21,13 @@ h2{
 h3{
     color:gray;
     text-align: center;
-    font-family: font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+p{
+    color:gray;
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .navbar-dark .navbar-brand {
